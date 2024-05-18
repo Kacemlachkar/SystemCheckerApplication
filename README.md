@@ -78,18 +78,31 @@ system-checker-app/
 ├── public/
 
 │   ├── index.html
+
 │   └── ...
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── SystemInfo.js
+
 │   │   └── ...
+
 │   ├── services/
+
 │   │   └── api.js
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── ...
+
 ├── package.json
+
 ├── README.md
+
 └── ...
 
 ### requirements.txt
