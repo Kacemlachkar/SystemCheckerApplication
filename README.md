@@ -70,7 +70,7 @@ To run tests (if any are included in the project):
 
 Using npm:
 
-```bash
+
 npm test
 
 system-checker-app/
