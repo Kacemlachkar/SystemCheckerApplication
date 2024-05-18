@@ -74,7 +74,9 @@ Using npm:
 npm test
 
 system-checker-app/
+
 ├── public/
+
 │   ├── index.html
 │   └── ...
 ├── src/
